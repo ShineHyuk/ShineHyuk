@@ -1,18 +1,27 @@
 ![Header](./header.png)
 
-### Hi there 👋
+<h1>:bell:About Myself:bell:</h1></br>
 
-<!--
-**ShineHyuk/ShineHyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am Hyuk(which means "Shine" in my language btw), a junior backend developer.</br>
+I like traveling each corner of our world.</br>
+I have started learning programming from SSAFY (Samsung Software Academy for Youth) </br>
 
-Here are some ideas to get you started:
+-----  
+ ### 🔨 technical skills  
+ <div>
+  <img src="https://img.shields.io/badge/java-007396?style=flat"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> <br/>
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----  
+### 📚 Algorithm  
+ksylka 👉 [![solved.ac](https://img.shields.io/badge/solved.ac-98FB98?style=flat)](https://solved.ac/profile/ksylka)  
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ksylka)](https://solved.ac/ksylka)
+  
