@@ -6,6 +6,7 @@ Hi! I am Hyuk(which means "Shine" in my language btw), a junior backend develope
 I like traveling each corner of our world.</br>
 I have started learning programming from SSAFY (Samsung Software Academy for Youth) </br>
 
+
 -----  
  ### 🔨 technical skills  
  <div>
