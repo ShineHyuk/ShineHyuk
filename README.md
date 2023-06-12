@@ -25,3 +25,7 @@ ksylka 👉 [![solved.ac](https://img.shields.io/badge/solved.ac-98FB98?style=fl
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ksylka)](https://solved.ac/ksylka)
   
+-----
+### 📝 GitHub Stats
+![ShineHyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShineHyuk&show_icons=true&theme=great-gatsby)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShineHyuk&langs_count=8)](https://github.com/ShineHyuk/github-readme-stats)
