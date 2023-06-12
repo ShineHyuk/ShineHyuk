@@ -2,7 +2,7 @@
 
 <h1>:bell:About Myself:bell:</h1></br>
 
-Hi! I am Hyuk(which means "Shine" in my language btw), a junior backend developer.</br>
+Hi! I am Hyuk (which means "Shine" in my language btw), a junior backend developer.</br>
 I like traveling each corner of our world.</br>
 I have started learning programming from SSAFY (Samsung Software Academy for Youth) </br>
 
