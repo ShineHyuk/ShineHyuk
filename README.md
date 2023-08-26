@@ -1,5 +1,3 @@
-![Header](./header.png)
-
 <h1>:bell:About Myself:bell:</h1></br>
 
 Hi! I am Hyuk (which means "Shine" in my language), a junior backend developer.</br>
