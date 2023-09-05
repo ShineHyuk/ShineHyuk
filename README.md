@@ -1,8 +1,8 @@
 <h2>HYUK:smirk:</h2></br>
 
 About me
-- Hi! I am Hyuk (which means "Shine" in my language), a junior backend developer.</br>
-- I am currently learning programming from SSAFY (Samsung Software Academy for Youth) </br>
+- :earth_asia: Born in South Korea, studied in China</br>
+- :memo: Currently learning programming from SSAFY (Samsung Software Academy for Youth) </br>
 
 
 -----  
