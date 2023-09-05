@@ -1,4 +1,4 @@
-<h1>:bell:HYUK:bell:</h1></br>
+<h2>HYUK:smirk:</h2></br>
 
 About me
 - Hi! I am Hyuk (which means "Shine" in my language), a junior backend developer.</br>
