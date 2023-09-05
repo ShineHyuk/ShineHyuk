@@ -1,5 +1,7 @@
 <h2>HYUK:smirk:</h2></br>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Notion-#000000?style=flat"/>
+</div>
 About me
 - :earth_asia: Born in South Korea, studied in China</br>
 - :memo: Currently learning programming from SSAFY (Samsung Software Academy for Youth) </br>
