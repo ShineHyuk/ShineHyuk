@@ -12,7 +12,7 @@ About me
   <img src="https://img.shields.io/badge/java-007396?style=flat"/>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat&logo=springBoot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JUnit5-#25A162?style=flat&logo=JUnit5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <br/><br/>
   <div>Database</div>
