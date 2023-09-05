@@ -1,6 +1,6 @@
 <h2>HYUK:smirk:</h2></br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
 </br>
 About me
