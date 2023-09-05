@@ -8,6 +8,7 @@ About me
 -----  
  ### 🔨 technical skills  
  <div>
+  <div>Backend</div>
   <img src="https://img.shields.io/badge/java-007396?style=flat"/>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
