@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
 </br>
-About me
+About me</br>
 - :earth_asia: Born in South Korea, studied in China</br>
 - :memo: Currently learning programming from SSAFY (Samsung Software Academy for Youth) </br>
 
