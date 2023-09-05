@@ -15,7 +15,7 @@ About me</br>
   <img src="https://img.shields.io/badge/java-007396?style=flat"/>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat&logo=springBoot&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JUnit4-25A162?style=flat&logo=JUnit4&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JUnit4-25A162?style=flat">
   <br/><br/>
   <div>Database</div>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
@@ -33,6 +33,8 @@ About me</br>
     <br/><br/>
    <div>Tools</div>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/>
 </div>
 
 -----  
